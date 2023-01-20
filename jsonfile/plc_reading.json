@@ -1,0 +1,32 @@
+[
+    {
+        "station": "Coag Pump Speed",
+        "spec": "1",
+        "actual": "2"
+    },
+    {
+        "station": "Latex Stirrer Speed (rpm)",
+        "spec": "3",
+        "actual": "4"
+    },
+    {
+        "station": "Prime Pump Speed (rpm)",
+        "spec": "5",
+        "actual": "6"
+    },
+    {
+        "station": "Bead Roller Speed (rpm)",
+        "spec": "7",
+        "actual": "8"
+    },
+    {
+        "station": "Former Drive Speed (rpm)",
+        "spec": "9",
+        "actual": "10"
+    },
+    {
+        "station": "M.C Speed (meter per min)",
+        "spec": "1",
+        "actual": "2"
+    }
+]

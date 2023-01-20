@@ -1,0 +1,20 @@
+[
+    {
+        "timestamp": "0",
+        "acid": 0,
+        "sodium1": 0,
+        "sodium2": 0,
+        "rinse1": 0,
+        "rinse2": 0,
+        "calciumnitrate": 0
+    },
+    {
+        "timestamp": 0,
+        "acid": 0,
+        "sodium1": 0,
+        "sodium2": 0,
+        "rinse1": 0,
+        "rinse2": 0,
+        "calciumnitrate": 0
+    }
+]

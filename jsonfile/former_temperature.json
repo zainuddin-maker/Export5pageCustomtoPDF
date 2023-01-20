@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Side A",
+        "before_dope_palm": "1",
+        "before_dope_cuff": "2",
+        "before_latex_palm": "3",
+        "before_latex_cuff": "4"
+    },
+    {
+        "name": "Side B",
+        "before_dope_palm": "56",
+        "before_dope_cuff": "",
+        "before_latex_palm": "7",
+        "before_latex_cuff": "8"
+    }
+]

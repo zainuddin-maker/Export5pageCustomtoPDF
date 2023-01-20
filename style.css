@@ -1,0 +1,39 @@
+.body_child_container{
+
+    width: 800px;
+    /* height: 50px; */
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row;
+}
+
+.first_box_child{
+
+    width:calc(100% - 170px) ;
+    /* height: 100%; */
+    background-color: antiquewhite;
+}
+
+.second_box_child{
+        width: 170px;
+        /* height: 100%; */
+        /* background-color: black; */
+}
+
+.configurationheader{
+    width: 100%;
+    background-color: blue;
+    
+    padding: 5px;
+    box-sizing: border-box;
+    text-align: center;
+    font-weight: 600;
+    font-size: 17px;
+}
+
+.header_per_page{
+
+    padding: 5px;
+    box-sizing: border-box;
+    font-size: 13px;
+}

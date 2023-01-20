@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Sodium Hypochlorite",
+        "value": "1"
+    },
+    {
+        "name": "Acid",
+        "value": "2"
+    },
+    {
+        "name": "Coagulant",
+        "value": "3"
+    },
+    {
+        "name": "Prime",
+        "value": "4"
+    },
+    {
+        "name": "Coating",
+        "value": "5"
+    },
+    {
+        "name": "Amonia",
+        "value": "6"
+    },
+    {
+        "name": "Surfynol",
+        "value": "7"
+    },
+    {
+        "name": "Algene N40",
+        "value": "8"
+    },
+    {
+        "name": "KOH",
+        "value": "9"
+    },
+    {
+        "name": "Ca3CO (Slurry)",
+        "value": "10"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "size": "5.5",
+        "type": "2051A/2051",
+        "loading_schedule": "1",
+        "persentase": "2"
+    },
+    {
+        "size": "6.0",
+        "type": "2051A/2051",
+        "loading_schedule": "3",
+        "persentase": "4"
+    },
+    {
+        "size": "6.5",
+        "type": "2051A/2051",
+        "loading_schedule": "5",
+        "persentase": "6"
+    },
+    {
+        "size": "7.0",
+        "type": "2051A/2051",
+        "loading_schedule": "7",
+        "persentase": "8"
+    },
+    {
+        "size": "7.5",
+        "type": "2051A/2051",
+        "loading_schedule": "9",
+        "persentase": "10"
+    },
+    {
+        "size": "8.0",
+        "type": "2051A/2051",
+        "loading_schedule": "11",
+        "persentase": "12"
+    },
+    {
+        "size": "8.5",
+        "type": "2051A/2051",
+        "loading_schedule": "13",
+        "persentase": "13"
+    },
+    {
+        "size": "9.0",
+        "type": "2051A/2051",
+        "loading_schedule": "14",
+        "persentase": "15"
+    },
+    {
+        "size": "Total",
+        "type": "Total",
+        "loading_schedule": "16",
+        "persentase": "17"
+    }
+]

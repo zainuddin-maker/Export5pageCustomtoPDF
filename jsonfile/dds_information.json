@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Behavior Observations:",
+        "value": "1"
+    },
+    {
+        "name": "Unsafe Conditions:",
+        "value": "2"
+    },
+    {
+        "name": "First Aids",
+        "value": "3"
+    },
+    {
+        "name": "DH Found:",
+        "value": "4"
+    },
+    {
+        "name": "DH Fixed:",
+        "value": "5"
+    },
+    {
+        "name": "No of CO Critique Form Accomplished",
+        "value": "6"
+    },
+    {
+        "name": "No of PM Created",
+        "value": "7"
+    },
+    {
+        "name": "No of PM Modified",
+        "value": "8"
+    },
+    {
+        "name": "No of PM Executed",
+        "value": "9"
+    }
+]

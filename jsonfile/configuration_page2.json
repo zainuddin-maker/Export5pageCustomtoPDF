@@ -1,0 +1,59 @@
+[
+    {
+        "data_shape_column_name": "dippingtank",
+        "header_name": "DIPPING TANK"
+    },
+
+    {
+        "data_shape_column_name": "spec",
+        "header_name": "SPEC"
+    },
+    {
+        "data_shape_column_name": "unit",
+        "header_name": "UNIT"
+    },
+    {
+        "data_shape_column_name": "testresult",
+        "header_name": "TEST RESULT"
+    },
+    {
+        "data_shape_column_name": "adj",
+        "header_name": "ADJ"
+    },
+    {
+        "data_shape_column_name": "retest",
+        "header_name": "RETEST"
+    },
+    {
+        "data_shape_column_name": "adj2",
+        "header_name": "ADJ"
+    },
+    {
+        "data_shape_column_name": "retest2",
+        "header_name": "RETEST"
+    },
+    {
+        "data_shape_column_name": "sop",
+        "header_name": "SOP"
+    },
+    {
+        "data_shape_column_name": "solution",
+        "header_name": "SOLUTION"
+    },
+    {
+        "data_shape_column_name": "water",
+        "header_name": "WATER"
+    },
+    {
+        "data_shape_column_name": "water",
+        "header_name": "WATER"
+    },
+    {
+        "data_shape_column_name": "water",
+        "header_name": "WATER"
+    },
+    {
+        "data_shape_column_name": "water",
+        "header_name": "WATER"
+    }
+]

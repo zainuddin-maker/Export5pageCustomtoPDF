@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Entities>
+    <ExtensionPackages>
+        <ExtensionPackage dependsOn="" description="" minimumThingWorxVersion="8.3.0" name="Exportpdf5page" packageVersion="1.0.15" vendor="IoT Centre Lab"></ExtensionPackage>
+    </ExtensionPackages>
+    <Widgets>
+        <Widget name="Exportpdf5page">
+            <UIResources>
+                <FileResource description="" file="Exportpdf5page.ide.js" isDevelopment="true" isRuntime="false" type="JS" />
+                <FileResource description="" file="Exportpdf5page.ide.css" isDevelopment="true" isRuntime="false" type="CSS" />
+                <FileResource description="" file="Exportpdf5page.runtime.js" isDevelopment="false" isRuntime="true" type="JS" />
+                <FileResource description="" file="Exportpdf5page.runtime.css" isDevelopment="false" isRuntime="true" type="CSS" />
+                <FileResource description="" file="d3.min.js" isDevelopment="true" isRuntime="true" type="JS" />
+                 <FileResource description="" file="jspdf.min.js" isDevelopment="true" isRuntime="true" type="JS" /> 
+                  <FileResource description="" file="html2canvas.min.js" isDevelopment="true" isRuntime="true" type="JS" /> 
+                    <FileResource description="" file="html2pdf.bundle.min.js" isDevelopment="true" isRuntime="true" type="JS" /> 
+                   
+            </UIResources>
+        </Widget>
+    </Widgets>
+</Entities>
